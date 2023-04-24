@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1079230906365",
+    "project_id": "authtutorial-51033",
+    "storage_bucket": "authtutorial-51033.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079230906365:android:64be6bd3df273fa085a394",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079230906365-4j31b1jnkb840gl0f2ibl3bm0ft9l7th.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ9BQsojKY3XOJgusOhnNBCHHlBAU5CMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079230906365-4j31b1jnkb840gl0f2ibl3bm0ft9l7th.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
